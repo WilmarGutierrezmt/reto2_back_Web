@@ -4,9 +4,11 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
+import org.springframework.stereotype.Component;
 import reto2_web.interfaces.InterfaceCleaningProductController;
 import reto2_web.interfaces.InterfaceUser;
 
+@Component
 @SpringBootApplication
 public class Reto2WebApplication implements CommandLineRunner {
     @Autowired
