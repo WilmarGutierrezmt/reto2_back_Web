@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: reto2_web.reto2_web.Reto2WebApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.635 s - in reto2_web.reto2_web.Reto2WebApplicationTests
